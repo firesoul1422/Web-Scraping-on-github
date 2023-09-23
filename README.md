@@ -7,3 +7,5 @@ What we will extract:
 - 2  **repostire's name**
 - 3  **number of stars**
 - 4  **url**
+
+We will also extract topic name to store it in csv file that has tha same name as the topic name
